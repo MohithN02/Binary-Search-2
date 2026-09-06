@@ -1,4 +1,4 @@
-class Solution {
+class FirstAndLastPositionInSortedArray {
 
     private int binarySearchLast(int[] nums, int target, int low, int high){
         while(low<=high){
